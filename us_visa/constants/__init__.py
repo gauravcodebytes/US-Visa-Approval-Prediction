@@ -68,4 +68,12 @@ MODEL_BUCKET_NAME = "usvisa-model-gauravcodebytes"
 MODEL_PUSHER_S3_KEY = "model-registry"
 
 
+"""
+To implement web-app with the help of fast API
+
+"""
+
+APP_HOST = "0.0.0.0"
+APP_PORT = 8080
+
 
